@@ -41,8 +41,8 @@ and open the template in the editor.
                     </div>
                 </nav>-->
         <?php include './includes/nav.php'; ?>
-        <div class="jumbotron no-margin no-padding" style="margin-top: 0px;background-color: #eee;" >
-            <div class="col-md-10 col-md-offset-1 cont-control">
+        <div class="jumbotron no-margin no-padding" style="margin-top: 0px;background-color: #eee; " >
+            <div class="col-md-8 col-md-offset-2 cont-control">
                 <h3 id="aboutSchool">About School</h3>
                 Mtwara Islamic Secondary School is the Islamic School which is Situated in Lilungu street near Lilungu Prison. It is 1km from the Mtwara Municipal council and the main bus stand.
                 The school is under Islamic Education Forum (IEF) institution which was established in 2012. The IEF institution established the school for the aim to upgrade academic excellence 
@@ -97,9 +97,7 @@ and open the template in the editor.
                 </div>
             </div>
         </div>
-            <div class="navbar navbar-inverse navbar-default navbar-fixed-bottom footer" style="color: #cbcbcb" style="border-radius: 0;">
-                <h5 class="no-margin no-padding">&copy; Mtwara Islamic Secondary School, 2016</h5>
-            </div>
+        <?php include './includes/footer.php'; ?>
             <?php // include './includes/footer.php'; ?>
             <script src="js/jquery-1.12.3.min.js" type="text/javascript"></script>
             <script src="js/bootstrap.min.js" type="text/javascript"></script>

@@ -191,7 +191,7 @@ and open the template in the editor.
             <p>It is Islamic secondary school dedicated for providing secondary education based on Tanzania Curriculum. It is at Mtwara Municipality. </p> 
         </div>
         <div class="container" style="margin-bottom: 20px; margin-top: 20px; ">
-            <div class="col-lg-4 col-md-8 left1 whitedesign">
+            <div class="col-lg-4 col-md-6 left1 whitedesign">
                 <h3>School Life</h3>
                 <div class="ribbon"></div>
                 <div class="">
