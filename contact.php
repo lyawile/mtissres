@@ -13,41 +13,14 @@ and open the template in the editor.
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <!--        <nav class="navbar-inverse navbar-default">
-                    <div class="container-fluid">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                                <ul class="nav navbar-nav">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Materials <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Quran</a></li>
-                                            <li><a href="#">English</a></li>
-                                            <li><a href="#">Chemistry</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </nav>-->
         <?php include './includes/nav.php'; ?>
-        <div class="jumbotron no-margin no-padding" style="margin-top: 0px;background-color: #eee;" >
+        <div class="col-md-10 col-md-offset-1 no-padding" style="margin-top: 0px;" >
             <div class="col-md-12" >
-                <div class="col-md-8 col-md-offset-2 location no-padding">
+                <div class="col-md-12  location no-margin no-padding">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3925.513093659882!2d40.18830983238677!3d-10.300759414712404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1463559649760" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
-            <div class="col-md-4 col-md-offset-2 map">
+            <div class="col-md-4 col-md-offset-0">
                 <div class="map">
                     <h3>Contact Information </h3>
                     <div class="row">
@@ -84,7 +57,7 @@ and open the template in the editor.
                     </div> 
                 </div>
             </div>
-            <div class="col-md-4 col-md-offset-0 contact_form">
+            <div class="col-md-8 col-md-offset-0 contact_form" >
                 <form action="" method="">
                     <div class="form-group">
                         <label for="fullname">Full Name</label>
@@ -101,7 +74,6 @@ and open the template in the editor.
                     <div class="form-group">
                         <input type="submit" class="btn btn-default" id="submit" value="send email" />
                     </div>
-
                 </form>
             </div>
         </div>
