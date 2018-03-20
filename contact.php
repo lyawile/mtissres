@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
@@ -17,48 +12,42 @@ and open the template in the editor.
         <div class="col-md-10 col-md-offset-1 no-padding" style="margin-top: 0px;" >
             <div class="col-md-12" >
                 <div class="col-md-12  location no-margin no-padding">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3925.513093659882!2d40.18830983238677!3d-10.300759414712404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1463559649760" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.5003656709755!2d40.185860725733924!3d-10.301781538317735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd81ac52c9d4407cc!2sMtwara+Islamic+Secondary+School!5e0!3m2!1sen!2sus!4v1521523869633" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4 col-md-offset-0">
-                <div class="map">
-                    <h3>Contact Information </h3>
+                <div class="map" style="padding: 0px;">
+                    <h2>Contact Information </h2>
                     <div class="row">
-                        <div class="col-md-1">
-                            <span class="glyphicon glyphicon-map-marker" aria-hidden="true" style="font-size: 30px;"></span>
-                        </div>
                         <div class="col-md-11">
-                            <span>Mmingano Street</span>
-                            <span>Mtwara Municipality,</span>
-                            <span>Tanzania</span>
+                            <h3>Address</h3>
+                            <span>Mtwara Islamic Secondary School</span>
+                            <span>P.O.Box 261 </span>
+                            <span>Mtwara Municipality</span>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-1">
-                            <span class="glyphicon glyphicon-phone" aria-hidden="true" style="font-size: 30px;"></span>
-                        </div>
                         <div class="col-md-11">
-
+                            <h3>Phones</h3>
                             <span> Head Master:	89800990990</span>
                             <span>Second Master:	80800990990</span>
                             <span>Academic Master:	89800990990</span>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-1">
-                            <span class="glyphicon glyphicon-envelope" aria-hidden="true" style="font-size: 30px;"></span>
-                        </div>
                         <div class="col-md-11">
-                            <span> Head master:	headmaster@mtiss.ac.tz</span>
-                            <span>Second master:	headmaster@mtiss.ac.tz</span>
-                            <span>Academic master:	headmaster@mtiss.ac.tz</span>
+                            <h3>Emails</h3>
+                            <span>Head master:	headmaster@mtiss.ac.tz</span>
+                            <span>Second master: headmaster@mtiss.ac.tz</span>
+                            <span>Academic master: headmaster@mtiss.ac.tz</span>
 
                         </div>
                     </div> 
                 </div>
             </div>
-            <div class="col-md-8 col-md-offset-0 contact_form" >
-                <form action="" method="">
+            <div class="col-md-8 col-md-offset-0 contact_form" style="padding-top: 0px;">
+                <h2 class="h">Write to Us</h2>
+                <form action="" method="" style="padding-top: 0px;">
                     <div class="form-group">
                         <label for="fullname">Full Name</label>
                         <input type="text" class="form-control" id="fullname" />
@@ -82,7 +71,7 @@ and open the template in the editor.
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
         <script type="text/javascript">
             $(document).ready(function () {
-                // $('body').css("background","red");
+//                 $('body').css("background","red");
             });
         </script>
     </body>

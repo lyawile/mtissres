@@ -158,6 +158,16 @@ div .map span {
     .site-footer{
         padding-left: 8.333333%;
     }
+   
+}
+@media (max-width: 992px){
+    form{
+        margin-top: 20px;
+    }
+    .contact_form {
+        margin-top: 20px;
+    }
+    
 }
 .navbar-inverse{
     background-color: #222;

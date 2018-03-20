@@ -55,7 +55,7 @@ and open the template in the editor.
                     <div class="col-md-3 no-margin no-padding"> 
                         <h4>Fees For Day Students</h4>  
                         <ul>
-                            <li> 500,000</li>
+                            <li> 700,000</li>
                         </ul>
                     </div>
                     <div class="col-md-3 no-margin no-padding">
