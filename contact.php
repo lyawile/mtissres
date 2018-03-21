@@ -18,6 +18,7 @@
             <div class="col-md-4 col-md-offset-0">
                 <div class="map" style="padding: 0px;">
                     <h2>Contact Information </h2>
+
                     <div class="row">
                         <div class="col-md-11">
                             <h3>Address</h3>
@@ -29,18 +30,43 @@
                     <div class="row">
                         <div class="col-md-11">
                             <h3>Phones</h3>
-                            <span> Head Master:	89800990990</span>
-                            <span>Second Master:	80800990990</span>
-                            <span>Academic Master:	89800990990</span>
+                            <table class="table">
+                                <tr>
+                                    <td>Address</td>
+                                    <td>Address</td>
+                                </tr>
+                                <tr>
+                                    <td>Head Master:</td>
+                                    <td>89800990990</td>
+                                </tr>
+                                <tr>
+                                    <td>Second Master:</td>
+                                    <td>80800990990</td>
+                                </tr>
+                                <tr>
+                                    <td>Academic Master:</td>
+                                    <td>89800990990</td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-11">
-                            <h3>Emails</h3>
-                            <span>Head master:	headmaster@mtiss.ac.tz</span>
-                            <span>Second master: headmaster@mtiss.ac.tz</span>
-                            <span>Academic master: headmaster@mtiss.ac.tz</span>
-
+                            <h3 style="padding: 0px; margin: 0px;">Emails</h3>
+                            <table class="table">
+                                <tr>
+                                    <td>Head Master:</td>
+                                    <td>headmaster@mtiss.ac.tz</td>
+                                </tr>
+                                <tr>
+                                    <td>Second Master:</td>
+                                    <td>headmaster@mtiss.ac.tz</td>
+                                </tr>
+                                <tr>
+                                    <td>Academic Master:</td>
+                                    <td>headmaster@mtiss.ac.tz</td>
+                                </tr>
+                            </table>
                         </div>
                     </div> 
                 </div>
