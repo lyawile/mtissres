@@ -32,10 +32,6 @@
                             <h3>Phones</h3>
                             <table class="table">
                                 <tr>
-                                    <td>Address</td>
-                                    <td>Address</td>
-                                </tr>
-                                <tr>
                                     <td>Head Master:</td>
                                     <td>89800990990</td>
                                 </tr>
